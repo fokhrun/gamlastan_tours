@@ -22,7 +22,7 @@ This site targets all sorts of users accessing from different types of devices. 
 
   - The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
 
-![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/macbook_screenshot_top.png)
+![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/landing_section.png)
 
 - __Club Ethos Section__
 
