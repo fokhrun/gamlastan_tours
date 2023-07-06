@@ -13,17 +13,16 @@ This site targets all sorts of users accessing from different types of devices. 
 
 - __Navigation Bar__
 
-  - Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, Contact. 
+  - Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact. 
 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. 
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/gamlastan.jpg)
 
 - __Club Ethos Section__
 
