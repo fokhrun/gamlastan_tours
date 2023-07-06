@@ -1,1 +1,0 @@
-# gamlastan_tours
