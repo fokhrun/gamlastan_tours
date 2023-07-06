@@ -18,11 +18,11 @@ This site targets all sorts of users accessing from different types of devices. 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
-- __The landing page image__
+- __The landing page image and description__
 
-  - The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. 
+  - The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
 
-![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/gamlastan.jpg)
+![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/macbook_screenshot_top.png)
 
 - __Club Ethos Section__
 
