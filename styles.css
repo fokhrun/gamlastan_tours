@@ -55,6 +55,7 @@ body, h1, h2, p, ul, li, table, form {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    border-width:thin;
   }
   
   table th, table td {
