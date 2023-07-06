@@ -13,23 +13,22 @@ This site targets all sorts of users accessing from different types of devices. 
 
 - __Navigation Bar__
 
-  - Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact. 
+Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact. 
 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
 - __The landing page image and description__
 
-  - The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
+The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
 
 ![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/landing_section.png)
 
-- __Club Ethos Section__
+- __Tour Timetable & Reserve__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+The tour timetable shows the schedule tours these month. It also provides form to reserve a specific tour. 
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours_reserve.png)
 
 - __Meetup Times section__
 
