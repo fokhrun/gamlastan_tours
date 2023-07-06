@@ -1,11 +1,11 @@
 # Gamlastan Tour
 
-Gamlastan Tour is a web site of a tour guide company where users learn about the tours and timetables offered by the company. 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
+Gamlastan Tour is a web site of a tour guide company of the same name. The company operates different types of tour within the Stockholm old town. The website provides the basic information about the tour and one touch option reserve tours. The compnay targets new tourists visiting Stockholm and caters to different age differently. 
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+![Laptop Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/macbook_screenshot_top.png)
+![Phone Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/iphone_screenshot.png)
 
 ## Features 
 
