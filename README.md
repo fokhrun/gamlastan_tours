@@ -30,51 +30,19 @@ The tour timetable shows the schedule tours these month. It also provides form t
 
 ![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours_reserve.png)
 
-- __Meetup Times section__
+- __About Us__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
-
-- __The Footer__ 
-
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
-
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
-
-- __Gallery__
-
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
-
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
-
-- __The Sign Up Page__
-
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
-
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+  Provides a short intro about the company. It also provides links to social media pages. 
 
 ### Features Left to Implement
 
-- Another feature idea
+- Showing how many spots left to reserve in the reserve form
+- Reservation with less clicks/typing
+- More images of different types of tours
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+We have loaded the sites in different types of devices including Macbook, Windows laptop, IPhone, and Android phones. The text wraps nicely in the landing section seamlessly depending on the size of the screen and the images load appropriately. Also the links work perfectly and navigates to the appropriate section upon click. The forms element provides sufficient guide to provide correct input. Furthermore, we have tested with other users. The texts are readable and the users gave the feedback that the site is clutter free. 
 
 ### Validator Testing 
 
