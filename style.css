@@ -41,6 +41,10 @@ body, h1, h2, p, ul, li, table, form {
     padding: 20px;
   }
   
+  .tour-header {
+    align-items: center;
+  }
+
   .tour-description {
     display: flex;
     align-items: center;
