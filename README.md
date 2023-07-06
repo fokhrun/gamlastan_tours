@@ -2,23 +2,21 @@
 
 Gamlastan Tour is a web site of a tour guide company of the same name. The company operates different types of tour within the Stockholm old town. The website provides the basic information about the tour and one touch option reserve tours. The compnay targets new tourists visiting Stockholm and caters to different age differently. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
-
 ![Laptop Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/image1.jpeg)
 
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+This site targets all sorts of users accessing from different types of devices. The site should work seamless in laptop, smart phones, tabular devices of any size. 
 
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, Contact. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+
+![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
 - __The landing page image__
 
