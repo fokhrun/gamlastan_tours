@@ -4,8 +4,8 @@ Gamlastan Tour is a web site of a tour guide company of the same name. The compa
 
 For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
 
-![Laptop Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/macbook_screenshot_top.png)
-![Phone Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/iphone_screenshot.png)
+![Laptop Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/image1.jpeg)
+
 
 ## Features 
 
