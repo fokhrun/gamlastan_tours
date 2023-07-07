@@ -50,9 +50,9 @@ We have loaded the sites in different types of devices including Macbook, Window
 ## Deployment
 
 The site was deployed to GitHub pages. The steps to deploy are as follows: 
-  - In the GitHub repository, navigate to the Settings tab 
-  - For source, select Deploye from a branch
-  - For branch, choose main
+  - In the GitHub repository, navigate to the Settings tab.
+  - For source, select Deploy from a branch.
+  - For branch, choose main.
   - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://fokhrun.github.io/gamlastan_tours/ 
@@ -63,4 +63,4 @@ The live link can be found here - https://fokhrun.github.io/gamlastan_tours/
 
 - The image for Gamla Stan has been taken from [pexels](https://www.istockphoto.com/se/foto/aerial-panorama-%C3%B6ver-stockholm-sverige-gm642182274-116549139?utm_campaign=srp_photos_limitedresults&utm_content=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fgamla%2520stan%2F&utm_medium=affiliate&utm_source=pexels&utm_term=gamla+stan)
 
-- The logos for facebook and instagram has been taken from Wikimedia
+- The logos for facebook and instagram has been taken from [iStockImages](https://www.istockphoto.com/se/foto/samling-av-popul%C3%A4ra-sociala-medier-logotyper-tryckt-p%C3%A5-vitt-papper-facebook-instagram-gm1028361154-275672172?phrase=facebook+logo)
