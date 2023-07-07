@@ -2,8 +2,7 @@
 
 Gamlastan Tour is a web site of a tour guide company of the same name. The company operates different types of tour within the Stockholm old town. The website provides the basic information about the tour and one touch option reserve tours. The compnay targets new tourists visiting Stockholm and caters to different age differently. 
 
-![Laptop Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/screenshots.jpeg)
-
+![Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/screenshots.jpeg)
 
 ## Features 
 
@@ -13,8 +12,7 @@ This site targets all sorts of users accessing from different types of devices. 
 
 - __Navigation Bar__
 
-Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact. 
-
+Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact.
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
@@ -32,7 +30,7 @@ The tour timetable shows the schedule tours these month. It also provides form t
 
 - __About Us__
 
-  Provides a short intro about the company. It also provides links to social media pages. 
+Provides a short intro about the company. It also provides links to social media pages. 
 
 ### Features Left to Implement
 
@@ -46,14 +44,12 @@ We have loaded the sites in different types of devices including Macbook, Window
 
 ### Validator Testing 
 
-- HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
-- CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
+- CSS: No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ## Deployment
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - For source, select Deploye from a branch
   - For branch, choose main
