@@ -37,6 +37,11 @@ Provides a short intro about the company. It also provides links to social media
 - Showing how many spots left to reserve in the reserve form
 - Reservation with less clicks/typing
 - More images of different types of tours
+- Better SEO support
+
+## Bug Needs to be fixed
+
+- Page loading is a bit slow (about 500ms)
 
 ## Testing 
 
@@ -46,6 +51,7 @@ We have loaded the sites in different types of devices including Macbook, Window
 
 - HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
 - CSS: No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accessibility: Lighthouse inspection gave the score of 100 for accessiblity
 
 ## Deployment
 
