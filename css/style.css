@@ -1,17 +1,17 @@
 /* Reset default browser styles */
 body, h1, h2, p, ul, li, table, form {
     margin: 0;
-    padding: 0;
+    padding: 0;  
 }
   
 /* Page layout */
 body {
     font-family: Arial, sans-serif;
+    background-color: #E9F1FA;
 }
   
 header {
-    background-color: #f2f2f2;
-    padding: 20px;
+    background-color: #00ABE4;
     padding: 50px 0;
     position: sticky;
     top: 0;
@@ -20,20 +20,21 @@ header {
   
 header h1 {
     margin-left: 20px;
-    color: #333;
+    color: #E9F1FA;
 }
   
 nav {
     float: left;
     margin-top: 20px;
+    margin-bottom: 5px;
     margin-left: 20px;
     margin-right: 20px;
 }
 
 nav a {
     text-decoration: solid;
-    background-color: #555;
-    color: #fff;
+    background-color: #E9F1FA;
+    color: #00ABE4;
     font-weight: bold;
     padding: 5px 10px;
     border: 1px solid #fff;
@@ -49,7 +50,7 @@ nav a:hover {
 
 .content {
   /* Add margin-top to create space for the sticky navbar */
-  margin-top: 60px;
+  margin-top: 10px;
 }
 
 section {
@@ -155,7 +156,7 @@ input[type="submit"]:hover {
 }
   
 footer {
-    background-color: #f2f2f2;
+    background-color: #00ABE4;
     padding: 20px;
     text-align: center;
 }
