@@ -12,6 +12,10 @@ body {
 header {
     background-color: #f2f2f2;
     padding: 20px;
+    padding: 50px 0;
+    position: sticky;
+    top: 0;
+    z-index: 1000; /* Ensure the navbar is above other content */
 }
   
 header h1 {
@@ -39,6 +43,11 @@ nav a.active,
 nav a:hover {
     background-color: #fff;
     color: #333;
+}
+
+.content {
+  /* Add margin-top to create space for the sticky navbar */
+  margin-top: 60px;
 }
 
 section {
