@@ -2,82 +2,98 @@
 body, h1, h2, p, ul, li, table, form {
     margin: 0;
     padding: 0;
-  }
+}
   
-  /* Page layout */
-  body {
+/* Page layout */
+body {
     font-family: Arial, sans-serif;
-  }
+}
   
-  header {
+header {
     background-color: #f2f2f2;
     padding: 20px;
-  }
+}
   
-  header h1 {
+header h1 {
     color: #333;
-  }
+}
   
-  nav {
+nav {
     float: right;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-  }
-  
-  section {
-    padding: 20px;
-  }
-  
-  .tour-header {
-    align-items: center;
-  }
+}
 
-  .tour-description {
+nav a {
+    text-decoration: none;
+    color: #999;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav a.active,
+nav a:hover {
+    background-color: #fff;
+    color: #333;
+}
+
+section {
+    padding: 20px;
+}
+  
+.tour-header {
+    align-items: center;
+}
+
+.tour-description {
     display: flex;
     align-items: center;
-  }
+}
   
-  .tour-description img {
+.tour-description img {
     width: 300px;
     margin-right: 20px;
-  }
+}
   
-  table {
+table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
     border-width:thin;
-  }
+}
   
-  table th, table td {
+table th, table td {
     padding: 10px;
     text-align: left;
     border-bottom: 1px solid #ddd;
-  }
+}
   
-  #about {
+#about {
     background-color: #f2f2f2;
-  }
+}
   
-  form {
+form {
     margin-top: 20px;
-  }
+}
   
-  form label, form input[type="submit"] {
+form label, form input[type="submit"] {
     display: block;
     margin-bottom: 10px;
-  }
+}
   
-  form input[type="submit"] {
+form input[type="submit"] {
     padding: 10px 20px;
     background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
-  }
+}
 
-  #signup {
+#signup {
     padding: 20px;
     background-color: #f2f2f2;
     border-radius: 8px;
@@ -127,18 +143,18 @@ input[type="submit"]:hover {
     background-color: #555;
 }
   
-  footer {
+footer {
     background-color: #f2f2f2;
     padding: 20px;
     text-align: center;
-  }
+}
   
-  #social-media a {
+#social-media a {
     margin-right: 10px;
-  }
+}
   
-  #social-media img {
+#social-media img {
     width: 10px;
     height: 10px;
-  }
+}
   
