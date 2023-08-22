@@ -2,23 +2,47 @@
 
 Gamlastan Tour is a web site of a tour guide company of the same name. The company operates different types of tour in the Stockholm old town. The website provides the basic information about tours. It also provides an easy way to reserve tours. The company targets new tourists visiting Stockholm catering different types of tourists to different age group. 
 
-## Features 
-
 This site targets all sorts of users accessing from different types of devices. The site works seamlessly in laptop, smart phones, and tabs/pads of any size. 
 
 ![Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/screenshots.png)
 
-### Existing Features
 
-- __Navigation Bar__
+## Features 
 
-Featured on the top. Includes possibility to navigate different parts of the page including Tours, Reserve, About, and Contact.
+### Design
+
+The site has a straight forward design single page design.
+- It should include a *navigation section* with buttons to jump to key areas of the site. This section should be sticky to the page. Hence, wherever a visitor is in the page, she should be able to access the navigation button to go to the top or any other key section of the page. 
+- It should include a *landing section* with description and images about the tour services. 
+- It should include a section for *tour timetables*, which should dhow upcoming tour schedules. 
+- It should include a section to *reserve* where users would be able to fill out a form to reserve a tour.
+- It should include a section *About Us* where key information about the tour operator should be provided. 
+- It should include a section *Contact* where key information to reach out to the tour operator should be provided. 
+
+The wireframe below incorporates this design. 
+
+![Wireframe](https://github.com/fokhrun/gamlastan_tours/blob/main/images/wireframe.png)
+
+
+### Visual Style
+
+The site follows a blue-based theme. The screen is designed to be adjustable on different screen sizes. See the screenshots on different screens above. The title is placed over a slightly darker blue area. The buttons are also placed in the same area. Both the title and the button colors are white. However, the button texts are blue and becomes dark when hovered. The footer is follows the same slightly darker blue color as the top part of the site. The main content area of the site is light blue. The theme aims to achieve calming effect to the site visitors.
+
+### Key Sections
+
+The site basically contains five key sections. 
+
+#### __Navigation Bar__
+
+Featured on the top part of the site. It includes the site title and buttons to navigate different parts of the site. The buttons are `Home`, `Tours`, `Reserve`, `About`, and `Contact`, which allows to jump to corresponding sections. The navigation bar is sticky. It stays in the same position regardless of wherever users are in the page. 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
-
-
 - __The landing page image and description__
+
+
+
+
 
 The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
 
@@ -34,11 +58,7 @@ The tour timetable shows the schedule tours these month. It also provides form t
 
 Provides a short intro about the company. It also provides links to social media pages. 
 
-### Wireframe
 
-The site 
-
-![Wireframe](https://github.com/fokhrun/gamlastan_tours/blob/main/images/wireframe.png)
 
 ### Features Left to Implement
 
