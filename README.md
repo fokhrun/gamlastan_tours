@@ -16,6 +16,8 @@ Featured on the top. Includes possibility to navigate different parts of the pag
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
+
+
 - __The landing page image and description__
 
 The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
@@ -33,6 +35,8 @@ The tour timetable shows the schedule tours these month. It also provides form t
 Provides a short intro about the company. It also provides links to social media pages. 
 
 ### Wireframe
+
+The site 
 
 ![Wireframe](https://github.com/fokhrun/gamlastan_tours/blob/main/images/wireframe.png)
 
