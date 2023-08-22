@@ -32,6 +32,10 @@ The tour timetable shows the schedule tours these month. It also provides form t
 
 Provides a short intro about the company. It also provides links to social media pages. 
 
+### Wireframe
+
+![Wireframe](https://github.com/fokhrun/gamlastan_tours/blob/main/images/wireframe.png)
+
 ### Features Left to Implement
 
 - Showing how many spots left to reserve in the reserve form
