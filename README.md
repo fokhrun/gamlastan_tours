@@ -11,13 +11,19 @@ This site targets all sorts of users accessing from different types of devices. 
 
 ### Design
 
-The site has a straight forward design single page design.
-- It should include a *navigation section* with buttons to jump to key areas of the site. This section should be sticky to the page. Hence, wherever a visitor is in the page, she should be able to access the navigation button to go to the top or any other key section of the page. 
-- It should include a *landing section* with description and images about the tour services. 
-- It should include a section for *tour timetables*, which should dhow upcoming tour schedules. 
-- It should include a section to *reserve* where users would be able to fill out a form to reserve a tour.
-- It should include a section *About Us* where key information about the tour operator should be provided. 
-- It should include a section *Contact* where key information to reach out to the tour operator should be provided. 
+The site is designed based on the following user stories:
+
+1. As a user, I want to navigate to any part of the site without scrolling too much so that I can jump to any part I desire fast 
+- It should be supported by a *navigation section* with buttons to jump back and forth to key areas of the site. This section should be sticky to the page. Hence, a user should be able to access the navigation button to go to the top or any other key section of the page wherever in the page she is at the moment. 
+2. As a user, I want to learn about whats charming about the tours, so that I can decide if I like the tours or not. 
+- It should be supported by a *landing section* with description and images about the tour services. The description should be well articulated, but not too long. There should be images to complement the description and entice the users to join tours. It should also include some high level details of the variety of the tours, so that users can identify the appropriate tour to go.
+3. As a user, I want to know about the upcoming tour schedule, so that I can plan my tour fitting my schedule.
+- It should be supported by a section for *tour timetables*, which should show upcoming tour dates and time for each type of tour. 
+4. As a user, I want to reserve tours fast and without making a mistake while providing my details
+- It should be supported by a section to *reserve* where users would be able to fill out a form while being assisted appropriately for different input types.
+5. As a user, I want to know about the tour company that allows me to validate whether the tour company can be trusted
+- It should supported by a section *About Us* where key information about the tour operator should be provided. 
+- It should also be supported by a section *Contact* where key information to reach out to the tour operator should be provided. 
 
 The wireframe below incorporates this design. 
 

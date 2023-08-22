@@ -192,14 +192,13 @@ input[type="submit"]:hover {
     background-color: #555;
 }
 
-/* About Us */
+/* Section for About Us */
 
 .about {
     background-color: #f2f2f2;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: left;
     margin-top: 40px;
 }
 
@@ -223,7 +222,7 @@ img {
     height: 60%;
 }
 
-/* About Us */
+/* Section for Contact Us */
 
 footer {
     background-color: #00ABE4;
