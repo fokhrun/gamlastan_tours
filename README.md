@@ -48,17 +48,19 @@ The landing page includes description about the tours. It includes a set of imag
 
 The tour timetable shows the upcoming tour schedules. The timetable includes tour name, tour date, starting time, and expected hours to complete.
 
-![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours.png)
+![Tours](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours.png)
 
 #### Reserve Tour
 
 Provides the form to reserve a tour. the form includes four inputs: name, email, phone number, and tour date. Note that there are no multiple tours on the same date, therefore no-additional input necessary for the time selection. The date and phone number inputs include helper information to guide the user to provide inputs in the correct format.
 
-![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/reserve.png)
+![Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/reserve.png)
 
 #### About Us and Contact Us
 
 Provides a short intro about the company. It also provides links to social media pages.
+
+![About US](https://github.com/fokhrun/gamlastan_tours/blob/main/images/about_us.png)
 
 ### Features Left to Implement
 
@@ -70,6 +72,7 @@ Provides a short intro about the company. It also provides links to social media
 ## Bug Needs to be fixed
 
 - Page loading is a bit slow (about 500ms)
+- Navigation to sections in the page is a bit off
 
 ## Testing 
 
