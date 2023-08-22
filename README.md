@@ -2,7 +2,7 @@
 
 Gamlastan Tour is a web site of a tour guide company of the same name. The company operates different types of tour within the Stockholm old town. The website provides the basic information about the tour and one touch option reserve tours. The compnay targets new tourists visiting Stockholm and caters to different age differently. 
 
-![Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/screenshots.jpeg)
+![Screenshot](https://github.com/fokhrun/gamlastan_tours/blob/main/images/screenshots.png)
 
 ## Features 
 
