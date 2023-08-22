@@ -32,32 +32,33 @@ The site follows a blue-based theme. The screen is designed to be adjustable on 
 
 The site basically contains five key sections. 
 
-#### __Navigation Bar__
+#### Navigation Bar
 
 Featured on the top part of the site. It includes the site title and buttons to navigate different parts of the site. The buttons are `Home`, `Tours`, `Reserve`, `About`, and `Contact`, which allows to jump to corresponding sections. The navigation bar is sticky. It stays in the same position regardless of wherever users are in the page. 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
-- __The landing page image and description__
+#### The landing page image and description__
 
-
-
-
-
-The landing includes a photograph to allow the user to see exactly which location this site would be applicable to. It also includes a description that describes what the company offers. 
+The landing page includes description about the tours. It includes a set of images of the tour locations. The text is split by the images to make it more tempting.
 
 ![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/landing_section.png)
 
-- __Tour Timetable & Reserve__
+#### Tour Timetable
 
-The tour timetable shows the schedule tours these month. It also provides form to reserve a specific tour. 
+The tour timetable shows the upcoming tour schedules. The timetable includes tour name, tour date, starting time, and expected hours to complete.
 
-![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours_reserve.png)
+![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/tours.png)
 
-- __About Us__
+#### Reserve Tour
+
+Provides the form to reserve a tour. the form includes four inputs: name, email, phone number, and tour date. Note that there are no multiple tours on the same date, therefore no-additional input necessary for the time selection. The date and phone number inputs include helper information to guide the user to provide inputs in the correct format.
+
+![Tours & Reserve](https://github.com/fokhrun/gamlastan_tours/blob/main/images/reserve.png)
+
+#### About Us and Contact Us
 
 Provides a short intro about the company. It also provides links to social media pages. 
-
 
 
 ### Features Left to Implement
