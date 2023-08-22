@@ -76,7 +76,10 @@ Provides a short intro about the company. It also provides links to social media
 
 ## Testing 
 
-We have loaded the sites in different types of devices including Macbook, Windows laptop, IPhone, and Android phones. The text wraps nicely in the landing section seamlessly depending on the size of the screen and the images load appropriately. Also the links work perfectly and navigates to the appropriate section upon click. The forms element provides sufficient guide to provide correct input. Furthermore, we have tested with other users. The texts are readable and the users gave the feedback that the site is clutter free. 
+- We have loaded the sites in different types of devices including Macbook, Windows laptop, IPhone, and Android phones. The text wraps nicely in the landing section seamlessly depending on the size of the screen and the images load appropriately.
+- We tested the links. Each of them opens in a new tab and navigates to appropriate section when clicked. 
+- The forms element provides sufficient guide to provide correct input. 
+- We have tested with other users. The texts are readable and the users gave the feedback that the site is clutter free. 
 
 ### Validator Testing 
 
