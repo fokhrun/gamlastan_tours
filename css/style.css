@@ -1,7 +1,7 @@
 /* Reset default browser styles */
 body, h1, h2, p, ul, li, table, form {
     margin: 0;
-    padding: 0;  
+    padding: 0;
 }
   
 /* Page layout */
@@ -9,6 +9,8 @@ body {
     font-family: Arial, sans-serif;
     background-color: #E9F1FA;
 }
+
+/* Header section that contains Site title and navigation buttons */
   
 header {
     background-color: #00ABE4;
@@ -22,6 +24,8 @@ header h1 {
     margin-left: 20px;
     color: #E9F1FA;
 }
+
+/* Navigation buttons */
   
 nav {
     float: left;
@@ -48,6 +52,8 @@ nav a:hover {
     color: #333;
 }
 
+/* Main section */
+
 .content {
   /* Add margin-top to create space for the sticky navbar */
   margin-top: 10px;
@@ -56,7 +62,9 @@ nav a:hover {
 section {
     padding: 20px;
 }
-  
+
+/* Tour description section */
+
 .tour-header {
     align-items: center;
 }
@@ -64,7 +72,18 @@ section {
 .tour-description {
     display: flex;
     align-items: center;
+    max-width: 1000px;
+    word-wrap: break-word;
 }
+
+.our-tours {
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    word-wrap: break-word;
+}
+
+/* Image tile within the tour description */
 
 .image-section {
   display: grid;
@@ -72,6 +91,7 @@ section {
   grid-auto-rows: 200px;
   grid-gap: 10px;
   margin-top: 40px;
+  max-width: 1000px;
 }
 
 .image-section img {
@@ -82,11 +102,19 @@ section {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+/* Tour Schedule */
+.tour-timetable-desc {
+    max-width: 1000px;
+    word-wrap: break-word;
+}
+
 table {
-    width: 100%;
+    width: 60%;
     border-collapse: collapse;
     margin-top: 20px;
-    border-width:thin;
+    border-width: thin;
+    max-width: 1000px;
+    word-wrap: break-word;
 }
   
 table th, table td {
@@ -95,41 +123,7 @@ table th, table td {
     border-bottom: 1px solid #ddd;
 }
 
-.tour-image img{
-    height: 30%;
-    width: 30%;
-}
-
-.about {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 40px;
-}
-
-.about-description {
-    flex: 1;
-    margin-right: 20px;
-    padding: 20px;
-    text-align: center;
-}
-
-.about-image {
-    flex: 1;
-    padding: 20px;
-}
-
-img {
-    border-radius: 50%;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 20%;
-    height: 20%;
-}
-
-#about {
-    background-color: #f2f2f2;
-}
+/* Tour Reserve form */
   
 form {
     margin-top: 20px;
@@ -197,11 +191,54 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #555;
 }
-  
+
+/* About Us */
+
+.about {
+    background-color: #f2f2f2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    margin-top: 40px;
+}
+
+.about-description {
+    flex: 1;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.about-image {
+    flex: 1;
+    padding: 20px;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 40%;
+    height: 65%;
+}
+
+/* About Us */
+
 footer {
     background-color: #00ABE4;
     padding: 30px;
     text-align: center;
+}
+
+.contact p{
+    color: #fff;
+}
+
+.contact-header h2{
+    color: #fff;
+}
+
+.contact-info p{
+    color: #fff;
 }
   
 #social-media a {
