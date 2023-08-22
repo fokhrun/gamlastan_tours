@@ -65,11 +65,6 @@ section {
     display: flex;
     align-items: center;
 }
-  
-.tour-description img {
-    width: 300px;
-    margin-right: 20px;
-}
 
 .image-section {
   display: grid;
@@ -86,7 +81,7 @@ section {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
-  
+
 table {
     width: 100%;
     border-collapse: collapse;
@@ -99,7 +94,37 @@ table th, table td {
     text-align: left;
     border-bottom: 1px solid #ddd;
 }
-  
+
+.tour-image img{
+    height: 30%;
+    width: 30%;
+}
+
+#about {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.about-description {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.about-image img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 20%;
+    height: 20%;
+}
+
+.rounded-image {
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
 #about {
     background-color: #f2f2f2;
 }
