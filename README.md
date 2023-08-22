@@ -38,7 +38,7 @@ Featured on the top part of the site. It includes the site title and buttons to 
 
 ![Nav Bar](https://github.com/fokhrun/gamlastan_tours/blob/main/images/navigation.png)
 
-#### The landing page image and description__
+#### The landing page image and description
 
 The landing page includes description about the tours. It includes a set of images of the tour locations. The text is split by the images to make it more tempting.
 
@@ -58,8 +58,7 @@ Provides the form to reserve a tour. the form includes four inputs: name, email,
 
 #### About Us and Contact Us
 
-Provides a short intro about the company. It also provides links to social media pages. 
-
+Provides a short intro about the company. It also provides links to social media pages.
 
 ### Features Left to Implement
 
