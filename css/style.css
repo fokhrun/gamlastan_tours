@@ -20,7 +20,6 @@ header {
     z-index: 1000; /* Ensure the navbar is above other content */
 }
 
-/* #E9F1FA */
 header h1 {
     margin-left: 20px;
     color: #111;
@@ -35,7 +34,7 @@ nav {
     margin-left: 20px;
     margin-right: 20px;
 }
-/* 00ABE4 */
+
 nav a {
     text-decoration: solid;
     background-color: #E9F1FA;
@@ -219,7 +218,7 @@ input[type="submit"]:hover {
 img {
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 35%;
+    width: 40%;
     height: 60%;
 }
 
