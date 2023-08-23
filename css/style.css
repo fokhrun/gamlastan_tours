@@ -19,10 +19,11 @@ header {
     top: 0;
     z-index: 1000; /* Ensure the navbar is above other content */
 }
-  
+
+/* #E9F1FA */
 header h1 {
     margin-left: 20px;
-    color: #E9F1FA;
+    color: #111;
 }
 
 /* Navigation buttons */
@@ -34,11 +35,11 @@ nav {
     margin-left: 20px;
     margin-right: 20px;
 }
-
+/* 00ABE4 */
 nav a {
     text-decoration: solid;
     background-color: #E9F1FA;
-    color: #00ABE4;
+    color: #333;
     font-weight: bold;
     padding: 5px 10px;
     border: 1px solid #fff;
@@ -48,8 +49,8 @@ nav a {
 
 nav a.active,
 nav a:hover {
-    background-color: #fff;
-    color: #333;
+    background-color: #555;
+    color: #fff;
 }
 
 /* Main section */
@@ -231,15 +232,15 @@ footer {
 }
 
 .contact p{
-    color: #fff;
+    color: #111;
 }
 
 .contact-header h2{
-    color: #fff;
+    color: #111;
 }
 
 .contact-info p{
-    color: #fff;
+    color: #111;
 }
   
 #social-media a {
