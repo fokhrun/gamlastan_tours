@@ -74,10 +74,20 @@ The site follows a blue-based theme. The screen is designed to be adjustable on 
 - More images of different types of tours
 - Better SEO support
 
-## Bug Needs to be fixed
+## Bugs
 
-- Page loading is a bit slow (about 500ms)
-- Navigation to sections in the page is a bit off
+### Fixed Bugs
+
+- Links open to the same page. Fixed open in a new tab.
+- Accidentally removed same page links from buttons to About Us and Contact Us section. Fixed later on upon manual testing. 
+- There were open tags, which were closed upon close inspection
+- Aspect ratio of the About Us image was changed when displayed. By making the height auto adjusted and only changing the width, we fixed the issue.
+- Image in the About us section were not placed properly with the text due to an incorrect reference in the style sheet. Fixed after thorough debugging. 
+- Changed to larger font size (14px) to make it easier to read.
+
+### Needs to be fixed
+
+- Page loading speed has been improved, but can be improved further with smaller images
 
 ## Testing 
 
@@ -86,14 +96,15 @@ The site follows a blue-based theme. The screen is designed to be adjustable on 
 - We tested the links, e. g., facebook and instagram links. Each of them opens in a new tab and navigates to appropriate page on when clicked. 
 - The forms element displays sufficient visual cues to make it easy to provide correct input. 
 - We have tested with other users. In their view, the texts are well-readable, the site is clutter free, and the color palette is engaging. 
+- Thoroughly investigated aspect ratio of all the images and fixed one. 
 
 ### Validator Testing 
 
 - HTML: Initially there were warnings about some syntax errors (about comments) and unclosed tags. Those issues were fixed. Currently it returns no warnings in [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
 - CSS: Initially there was a warning regarding incorrect styling attribute. The styling attribute is unused and, hence, removed. 
 Currently, there are no warnings in [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- Accessibility and other validations: Lighthouse inspection gave the score of 100 for accessiblity. Initially, the score was at 97% when text and button colors in the headers and footer sections were not contrasting enough to the background color. Upon choosing the darker color better accessibility score is attained. Therefore, we traded aesthetically pleasing color for improved accessibility. The site has the highest accessibility score and best practice score, i.e., 100%. The site also has a high performance score (98%). 
 
-- Accessibility: Lighthouse inspection gave the score of 100 for accessiblity. Initially, the score was at 97% when text and button colors in the headers and footer sections were not contrasting enough to the background color. Upon choosing the darker color better accessibility score is attained. Therefore, we traded aesthetically pleasing color for improved accessibility. 
 
 ## Deployment
 
