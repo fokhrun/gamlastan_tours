@@ -11,7 +11,7 @@ This site targets all sorts of users accessing from different types of devices. 
 
 ### Design
 
-The site is designed based on the following user stories:
+The user experience of the site is designed based on the following user stories:
 
 1. As a user, I want to navigate to any part of the site without scrolling too much so that I can jump to any part I desire fast 
 - It should be supported by a *navigation section* with buttons to jump back and forth to key areas of the site. This section should be sticky to the page. Hence, a user should be able to access the navigation button to go to the top or any other key section of the page wherever in the page she is at the moment. 
@@ -29,14 +29,9 @@ The wireframe below incorporates this design.
 
 ![Wireframe](https://github.com/fokhrun/gamlastan_tours/blob/main/images/wireframe.png)
 
+### Key Features
 
-### Visual Style
-
-The site follows a blue-based theme. The screen is designed to be adjustable on different screen sizes. See the screenshots on different screens above. The title is placed over a slightly darker blue area. The buttons are also placed in the same area. Both the title and the button colors are white. However, the button texts are blue and becomes dark when hovered. The footer is follows the same slightly darker blue color as the top part of the site. The main content area of the site is light blue. The theme aims to achieve calming effect to the site visitors.
-
-### Key Sections
-
-The site basically contains five key sections. 
+The site basically has five key features that implements the user stories listed above. 
 
 #### Navigation Bar
 
@@ -46,7 +41,7 @@ Featured on the top part of the site. It includes the site title and buttons to 
 
 #### The landing page image and description
 
-The landing page includes description about the tours. It includes a set of images of the tour locations. The text is split by the images to make it more tempting.
+The landing page includes description about the tours. It includes a set of images of the tour locations that tries to provide a visual feeling of the tours. The text is split by the images to make it more tempting.
 
 ![Landing Page](https://github.com/fokhrun/gamlastan_tours/blob/main/images/landing_section.png)
 
@@ -68,6 +63,10 @@ Provides a short intro about the company. It also provides links to social media
 
 ![About US](https://github.com/fokhrun/gamlastan_tours/blob/main/images/about_us.png)
 
+### Visual Style
+
+The site follows a blue-based theme. The screen is designed to be adjustable on different screen sizes. See the screenshots on different screens above. The title is placed over a slightly darker blue area. The buttons are also placed in the same area. Both the title and the button colors are white. However, the button texts are blue and becomes dark when hovered. The footer is follows the same slightly darker blue color as the top part of the site. The main content area of the site is light blue. The theme aims to achieve calming effect to the site visitors.
+
 ### Features Left to Implement
 
 - Showing how many spots left to reserve in the reserve form
@@ -83,14 +82,16 @@ Provides a short intro about the company. It also provides links to social media
 ## Testing 
 
 - We have loaded the sites in different types of devices including Macbook, Windows laptop, IPhone, and Android phones. The text wraps nicely in the landing section seamlessly depending on the size of the screen and the images load appropriately.
-- We tested the links. Each of them opens in a new tab and navigates to appropriate section when clicked. 
-- The forms element provides sufficient guide to provide correct input. 
-- We have tested with other users. The texts are readable and the users gave the feedback that the site is clutter free. 
+- We tested the buttons. It allows to go to desired sections correctly. It takes very little time to move between sections.
+- We tested the links, e. g., facebook and instagram links. Each of them opens in a new tab and navigates to appropriate page on when clicked. 
+- The forms element displays sufficient visual cues to make it easy to provide correct input. 
+- We have tested with other users. In their view, the texts are well-readable, the site is clutter free, and the color palette is engaging. 
 
 ### Validator Testing 
 
-- HTML: No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
-- CSS: No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+- HTML: Initially there were warnings about some syntax errors (about comments) and unclosed tags. Those issues were fixed. Currently it returns no warnings in [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F)
+- CSS: Initially there was a warning regarding incorrect styling attribute. The styling attribute is unused and, hence, removed. 
+Currently, there are no warnings in [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ffokhrun.github.io%2Fgamlastan_tours%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 - Accessibility: Lighthouse inspection gave the score of 100 for accessiblity
 
 ## Deployment
