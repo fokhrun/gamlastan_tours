@@ -218,8 +218,8 @@ input[type="submit"]:hover {
 img {
     border-radius: 50%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    width: 40%;
-    height: 60%;
+    width: 25%;
+    height: auto;
 }
 
 /* Section for Contact Us */
